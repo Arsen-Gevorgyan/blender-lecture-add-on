@@ -1,9 +1,13 @@
 # Blender Character Lecture
 
 <p align="center">
-  <a href="https://github.com/Arsen-Gevorgyan/blender-lecture-add-on/blob/main/blender_character_lecture.zip?raw=true">
+  <a href="https://github.com/Arsen-Gevorgyan/blender-lecture-add-on/raw/refs/heads/main/blender_character_lecture.zip">
     <strong>Download Blender Character Lecture</strong>
   </a>
+</p>
+
+<p align="center">
+  A beginner-friendly Blender add-on that teaches you how to make a low-poly character step by step.
 </p>
 
 <p align="center">
