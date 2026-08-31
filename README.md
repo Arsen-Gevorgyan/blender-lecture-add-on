@@ -20,9 +20,9 @@
 
 ## Download
 
-**Download the Add-on ZIP**
+[**Download Blender Character Lecture ZIP**](https://github.com/Arsen-Gevorgyan/blender-lecture-add-on/raw/refs/heads/main/blender_character_lecture.zip)
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/Arsen-Gevorgyan/blender-lecture-add-on/blob/main/blender_character_lecture.zip?raw=true)
+Download the ZIP and install it directly in Blender 3.6. You do not need to extract it before installing.
 
 Download the ZIP file above and install it directly in Blender.
 
