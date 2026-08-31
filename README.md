@@ -1,9 +1,15 @@
 # Blender Character Lecture
 
 <p align="center">
-  <a href="https://github.com/Arsen-Gevorgyan/blender-lecture-add-on/releases/latest/download/blender_character_lecture.zip">
+  <a href="https://github.com/Arsen-Gevorgyan/blender-lecture-add-on/blob/main/blender_character_lecture.zip?raw=true">
     <strong>Download Blender Character Lecture</strong>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender-3.6-orange" alt="Blender 3.6">
+  <img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python 3.10">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
 </p>
 
 <p align="center">
@@ -14,7 +20,9 @@
 
 ## Download
 
-**[Download the Add-on ZIP](https://github.com/Arsen-Gevorgyan/blender-lecture-add-on/releases/latest/download/blender_character_lecture.zip)**
+**Download the Add-on ZIP**
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/Arsen-Gevorgyan/blender-lecture-add-on/blob/main/blender_character_lecture.zip?raw=true)
 
 Download the ZIP file above and install it directly in Blender.
 
