@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "blender_character_lecture"
+version = "1.0.0"
+name = "Blender Character Lecture"
+tagline = "Learn Blender by building a low-poly character"
+maintainer = "Arsen Gevorgyan"
+type = "add-on"
+
+tags = ["3D View"]
+
+blender_version_min = "4.2.0"
+
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
+
+website = "https://github.com/Arsen-Gevorgyan/blender-lecture-add-on"
